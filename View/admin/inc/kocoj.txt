@@ -1,0 +1,4 @@
+http://localhost:8888/webfamily/View/admin/index.php?controller=slider&action=edit&id=7
+
+
+http://localhost:8888/webfamily/View/admin/index.php?controller=product&action=info&id=1
